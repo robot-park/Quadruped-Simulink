@@ -1,5 +1,6 @@
 # Quadruped-Simulink
 
+## Introduction
 Model-based computed torque controller
 
 (Controller only w/ simple motion)
