@@ -1,6 +1,8 @@
 # Quadruped-Simulink
 
-Model-based computed torque control
+Model-based computed torque controller
+
+(Controller only w/ simple motion)
 
 ![Simulink Controllers](https://github.com/user-attachments/assets/6dc90e2b-359b-4deb-9702-4daef02150c0)
 
@@ -13,3 +15,7 @@ SMC Controller
 ## Simscape
 
 ![Simscape_Leg](https://github.com/user-attachments/assets/9949104b-1e44-401d-9c6e-72cde70b9ef8)
+
+## Result
+
+[Stand-up](https://github.com/user-attachments/assets/6628e366-13c8-46d2-b951-ba00465a18b9)
